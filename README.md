@@ -1,6 +1,4 @@
-# marcos9113
- 
-# Atharv
+ # Atharv Vadehra
 
 ## Cloud & DevOps Enthusiast || Bangalore, Karnataka
 Passionate about building secure, scalable cloud infrastructure and driving automation. I specialize in DevOps, distributed systems, and cybersecurity, focusing on threat detection, incident response, and infrastructure as code (IaC). I aim to promote resilient systems through blogs and community engagement, advocating best practices in cloud security.
@@ -8,7 +6,7 @@ Passionate about building secure, scalable cloud infrastructure and driving auto
 ---
 
 ### **Profile Links**
-[Portfolio](#) | [LinkedIn](#) | [GitHub](#) | atharv@example.com | +91 XXXXX XXXXX
+[Portfolio](https://atharvvadehra.com) | [LinkedIn](https://www.linkedin.com/in/atharv-vadehra/) | [GitHub](https://github.com/marcos9113) | atharv@vadehra.me | +91 9971714292
 
 ---
 
@@ -34,15 +32,6 @@ Passionate about building secure, scalable cloud infrastructure and driving auto
 
 ### **Soft Skills**
 **Problem-Solving** | **Leadership** | **Collaboration** | **Design Thinking** | **Communication** | **Critical Thinking** | **Time Management**
-
----
-
-### **Certifications**
-- AWS Certified Solutions Architect – Associate  
-- Google Cloud Associate Cloud Engineer  
-- HashiCorp Terraform Associate  
-- Cisco Certified CyberOps Associate  
-- Kubernetes Administrator by The Linux Foundation  
 
 ---
 
@@ -89,18 +78,16 @@ Passionate about building secure, scalable cloud infrastructure and driving auto
 - **Host & Speaker** – Delivered tech talks on cloud security, DevOps best practices, and Kubernetes deployments.  
 - **Blog Author** – Regularly publish articles on DevOps pipelines, cybersecurity, and automation tools.  
 - **Hackathons** – Participated in and mentored cloud and cybersecurity hackathons, guiding teams to implement innovative solutions.  
-- **Mentorship** – Mentor students and professionals on cloud certifications and DevOps career paths.  
 
 ---
 
 ### **Interests**
-Cloud Engineering | DevOps | Security Architecture | Distributed Systems | Open-Source Contribution | Automation | Threat Intelligence | Quantum Computing  
+Cloud Engineering | DevOps | Security Architecture | Distributed Systems | Automation | Threat Intelligence | Quantum Computing  
 
 ---
 
 ### **Future Goals**
 - Gain deeper expertise in Kubernetes and cloud-native technologies.  
-- Contribute to open-source projects focused on security and distributed systems.  
 - Pursue advanced certifications in cloud security and DevOps.  
 - Develop tools and frameworks to enhance cybersecurity awareness and automation.
 
