@@ -13,8 +13,8 @@ Passionate about building secure, scalable cloud infrastructure and driving auto
 ### **Education**
 | S.No | Institution               | Degree                                  | Marks  | Year                |
 |------|--------------------------|-----------------------------------------|--------|---------------------|
-| 1    | Atria University            | B.Tech in Digital Transformation (Cloud & DevOps) | 8.5 CGPA | 2022 - 2025       |
-| 2    | Delhi Public School         | Class 12 - CBSE                             | 90%    | 2020 - 2022         |
+| 1    | Atria University            | B.Tech in Digital Transformation (Cloud & DevOps) | 7.5 CGPA | 2022 - Present      |
+| 2    | Delhi Public School         | Class 12 - CBSE                             | 85%    | 2020 - 2022         |
 
 ---
 
